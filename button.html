@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>BUTTON FUNCTIONS</title>
+</head>
+<p id="p1" >
+<button id ="b1" onclick="fun1()">click here</button></p>
+<button id ="b2"  onclick="fun2()">click here</button></p>
+
+<script>
+var radius= 10;
+var area =Math.PI*Math.pow(radius,2);
+
+function fun1()
+{
+document.getElementById("p1").innerHTML = "The area of the circle with radius "+radius+"="+Math.ceil(area)+"<br>";
+}
+function fun2()
+{
+document.getElementById("p1").innerHTML = "nandana"+"<br>";
+}
+
+</script>

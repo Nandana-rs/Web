@@ -1,0 +1,83 @@
+<html>
+<title>RESUME</title>
+<head>
+<link rel="stylesheet" href="resume.css">
+</head>
+ 
+<body>
+<div class="full">
+<div class="left">
+<div class="image">
+<img src="amal.jpg" alt="amal" style="width:100px;height:100px;">
+</div>
+<div class="Contact">
+<h2>Contact</h2>
+<p><b>Email : </b>nandanars2024b@mca.ajce.in</p>
+<p><b>Mobile : </b>9xxxxyyzzx</p>
+</div>
+<div class="Skills">
+<h2>Skills</h2>
+<ul>
+<li><b>Programming Languages : Python, Java, C++</b></li>
+<li><b>Frontend : HTML5, CSS3, JavaScript, React</b></li>
+<li><b>Backend : Node.js</b></li>
+</ul>
+</div>
+<div class="Language">
+<h2>Language</h2>
+<ul>
+<li>English</li>
+<li>Hindi</li>
+</ul>
+</div>
+<div class="Hobbies">
+<h2>Hobbies</h2>
+<ul>
+<li>singing</li>
+<li>reading</li>
+</ul>
+</div>
+</div>
+
+<div class="right">
+<div class="name">
+<h1>Nandans R.S</h1>
+</div>
+<div class="title">
+<p>Web Developer</p>
+</div>
+<div class="Summary">
+<h2>Summary</h2>
+ <p>To secure a challenging position in a
+reputable organization to expand my learning 
+knowledge and skill</p>
+</div>
+
+            <div class="Education">
+                <h2>Education</h2>
+                <table>
+                    <tr>
+                        <th>University/college  </th>
+                        <th>Passing year  </th>
+                        <th>percentage/cgpa</th>
+                    </tr>
+                    <tr>
+                        <td>xyz</td>
+                        <td>2020</td>
+                        <td>8.9</td>
+                    </tr>
+                    <tr>
+                        <td>pqr</td>
+                        <td>2018</td>
+                        <td>89%</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="project">
+               
+            </div>
+        </div>
+    </div>
+</body>
+ 
+</html>
